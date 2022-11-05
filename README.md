@@ -17,5 +17,7 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JackTheProgrammerCat&theme=nord)](https://git.io/streak-stats)
+
 
 https://github.com/JackTheProgrammerCat
